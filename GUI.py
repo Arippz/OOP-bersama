@@ -19,7 +19,7 @@ class Window(QMainWindow):
         super().__init__()
 
         self.mainContainer = QHBoxLayout()
-
+        
         self.label1 = QLabel("Welcome text")
 
         self.mainContainer.addWidget(self.label1)
