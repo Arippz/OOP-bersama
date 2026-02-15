@@ -5,3 +5,6 @@ class Customer():
         self.testi = tes2
         # gundar
         # unjani
+        # Telkom
+        #Testi
+        # Testi
