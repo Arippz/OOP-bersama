@@ -4,4 +4,4 @@ class Customer():
         self.tes = tes
         self.testi = tes2
         # gundar
-        # unjani
+        # unjanig
