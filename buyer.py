@@ -3,4 +3,5 @@ class Customer():
         self.username = username
         self.tes = tes
         self.testi = tes2
-        # hai
+        # gundar
+        # unjani
