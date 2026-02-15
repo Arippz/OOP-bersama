@@ -1,4 +1,6 @@
 class Customer():
-    def __init__(self, username, transaction, tes):
+    def __init__(self, username, transaction, tes, tes2):
         self.username = username
         self.tes = tes
+        self.testi = tes2
+        # hai
